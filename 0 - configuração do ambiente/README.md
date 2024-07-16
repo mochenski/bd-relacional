@@ -58,3 +58,13 @@ Usuário padrão
 
   - user: myuser
   - pass: myuser
+
+## Para começar os módulos de estudo
+
+- Crie um banco de dados
+- Selecione o banco de dados criado
+
+```
+CREATE DATABASE db_study;
+USE db_study;
+```

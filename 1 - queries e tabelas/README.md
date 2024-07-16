@@ -120,5 +120,3 @@ O comando `DELETE` é usado para remover registros de uma tabela.
 DELETE FROM Estudantes
 WHERE id = 1;
 ```
-
----
