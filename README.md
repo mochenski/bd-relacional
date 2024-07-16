@@ -1,4 +1,5 @@
 # Banco de Dados Relacional - estudos
+por Luis Eduardo Mochenski Floriano
 
 Este repositório contém materiais de estudo sobre banco de dados relacional. O objetivo é fornecer exemplos práticos e explicações teóricas sobre os principais componentes e funcionalidades dos sistemas de banco de dados relacionais. Cada tema será abordado em uma pasta específica, contendo arquivos `.sql` e um README explicativo.
 
@@ -21,3 +22,5 @@ Cada pasta contém um README específico detalhando o tema abordado, juntamente 
 ## Contribuições
 
 Contribuições são bem-vindas! Se você deseja adicionar novos exemplos ou corrigir algum erro, sinta-se à vontade para abrir uma pull request.
+
+- Feito por Luis Eduardo Mochenski Floriano 2024
