@@ -1,5 +1,9 @@
 # Docker MySQL Container
 
+Aqui vamos criar um container MySQL e obter informações de acesso.
+
+Também será executado um scrip inicial par acriar uma tabela de teste no banco de dados.
+
 ## Utilizando MySQL em container docker
 
 Temos duas formas de preparar o ambiente com container
@@ -42,7 +46,7 @@ E para reiniciar:
 
 `docker start mysqlContainer`
 
-### Note que o container do banco de dados pode ser acessado por
+## Informações de acesso
 
 Url: localhost:49161
 
